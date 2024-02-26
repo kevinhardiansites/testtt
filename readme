@@ -1,0 +1,6 @@
+File Streamlit Utama (app.py) akan menggunakan dataset dari folder dataset-streamlit untuk melakukan proses eda dan visualisasi data. Data yang akan digunakan antara lain :
+
+1. yoy_mortality.csv sebagai dataset yang menampilkan gambar grafik kondisi mortalitas anak di dunia dari tahun ke tahun (median)
+2. mortality_2022.csv sebagai dataset yang menampilkan gambar grafik kondisi tahun 2022 untuk daerah asean
+3. trends.csv sebagai dataset yang menampilkan gambar grafik kondisi mortalitas anak di asean dari tahun ke tahun
+4. correlation.csv sebagai dataset yang menampilkan korelasi antar faktor yang mempengaruhi mortalitas anak

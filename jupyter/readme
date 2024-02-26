@@ -1,0 +1,6 @@
+File Jupyter ini akan menggunakan dataset yang ada di folder dataset, antara lain :
+
+1. Under-five mortality, for both sexes combined (deaths under age five per 1,000 live births).csv sebagai dataset utama
+2. undata.csv sebagai dataset pendukung
+3. Poverty gap at $2.15 a day (2017 PPP) (%).csv sebagai dataset pendukung
+4. Adolescent fertility rate (births per 1,000 women ages 15-19).csv sebagai dataset pendukung
